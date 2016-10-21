@@ -1,5 +1,5 @@
 # GNU/Linux Komutları
-
+deneme
 Terminalde kullanılabilecek komutların tamamı oldukça uzun bir liste oluşturabilir. Kitapta verilen komutlar buradaki örneklerin ve problemlerin çözülmesi için gerekli olan komutlardır. Listenin tamamı aşağıdaki kaynaklarda bulunabilir:
 
 * [ss64.com](http://ss64.com/bash/)
